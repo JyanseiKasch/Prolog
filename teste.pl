@@ -1,6 +1,8 @@
+autor(ecadequeiroz).
 livro(osmaias).
+nacionalidade(X,ingles).
 nacionalidade(ecadequeiroz,portugues).
-autor(ecadequeiroz,osmaias).
+autorlivro(ecadequeiroz,osmaias):.
 tipo(ecadequeiroz,romance).
 tipo(ecadequeiroz,ficcao).
 
